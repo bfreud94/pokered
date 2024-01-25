@@ -6,6 +6,12 @@ CeruleanCaveB1FWildMons:
 	db 64, CHANSEY
 	db 64, PARASECT
 	db 64, RAICHU
+	db 15, RHYDON
+	db 15, MAROWAK
+	db 15, ELECTRODE
+	db 14, CHANSEY
+	db 14, PARASECT
+	db 14, RAICHU
 IF DEF(_RED)
 	db 57, ARBOK
 ENDC
