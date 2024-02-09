@@ -1,6 +1,6 @@
 	db DEX_GOLDEEN ; pokedex id
 
-	db  45,  67,  60,  63,  50
+	db  45,  60,  60,  65,  60
 	;   hp  atk  def  spd  spc
 
 	db WATER, WATER ; type
